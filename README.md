@@ -1,10 +1,10 @@
 # Spring-Boot-Student-Portal
 
-This is spring boot app with rest apis. 
+A student portal  that acts as an  portal between students and the admin. T It contains an admin who can enter details of students. 
 
 # Student API's
 
-A student portal  that acts as an  portal between students and the admin. T It contains an admin who can enter details of students. Students can then login using provided user id password and edit their profile details and image. When students login they can see their own marks details.
+Students can then Register and login using provided user id password and edit their profile details and image. When students login they can see their own marks details.
 
 # Admin
 
